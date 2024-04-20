@@ -1,0 +1,19 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.elementor-1124 .elementor-element.elementor-element-a7eb0fa img, 
+.elementor-1124 .elementor-element.elementor-element-616a34c .elementor-button, 
+.elementor-button span,
+.elementor-widget-container 
+{
+	border-radius: 6px !important;
+}
+
+.ast-builder-layout-element.site-header-focus-item.ast-header-account, 
+.ast-edd-site-header-cart-wrap
+{
+    display: none;
+}
+
+
+</style></style>
+<!-- end Simple Custom CSS and JS -->
