@@ -1,2 +1,3 @@
 # soinkineplus
  
+Rename soinkinepluswd > soinkineplus
